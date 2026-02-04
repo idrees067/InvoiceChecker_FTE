@@ -1,16 +1,37 @@
-# Invoice Checker FTE
+# Invoice Checker – Digital FTE (Agentic AI)
 
-This project defines a Digital FTE (Agentic AI) that checks invoices for correctness.
+This project demonstrates a **Digital Full-Time Equivalent (FTE)** built using **Agentic AI concepts** and **Claude Code**.
 
-## Files
-- spec.md: High-level definition of the FTE (role, inputs, outputs, boundaries)
-- skill.md: Skills and validations the FTE can perform
+The Digital FTE acts as an **Invoice Checker**, validating invoices for:
+- Missing required fields
+- Calculation correctness
+- Basic business rule violations
 
-## Claude Instructions
-You are acting as a Digital FTE simulator.
-Follow spec.md strictly.
-Use skill.md to perform invoice checks.
-Do not add extra features outside the spec.
+This project is designed as:
+- A **learning artifact** for Agentic AI
+- A **course assignment / portfolio project**
+- A demonstration of **spec-driven agent development**
+....................................................................<><><>
 
-## Goal
-Validate invoices and generate a structured validation report.
+# Invoice Checker – Digital FTE (Agentic AI)
+
+This project demonstrates a **Digital Full-Time Equivalent (FTE)** built using **Agentic AI concepts** and **Claude Code**.
+
+The Digital FTE acts as an **Invoice Checker**, validating invoices for:
+- Missing required fields
+- Calculation correctness
+- Basic business rule violations
+
+This project is designed as:
+- A **learning artifact** for Agentic AI
+- A **course assignment / portfolio project**
+- A demonstration of **spec-driven agent development**
+...........................................................
+##  Note on Agent Execution
+
+The Digital FTE is **simulated using Claude Code** acting as a general agent that reads `spec.md` and `skill.md` to perform invoice validation.
+
+This repository focuses on **agent design, reasoning, and workflow**, not deployment.
+
+  
+  
